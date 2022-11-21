@@ -8,7 +8,7 @@ SPDXVersion: SPDX-2.1
 DataLicense: CC0-1.0
 SPDXID: SPDXRef-Document
 DocumentNamespace: spdx:kernkonzept/hello-3d6b6f92-7bee-4678-b821-c6f5a63d60a5
-DocumentName: LICENSE.spdx
+DocumentName: hello
 
 Creator: Organization: Kernkonzept GmbH (info@kernkonzept.com)
 
