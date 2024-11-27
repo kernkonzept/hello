@@ -16,8 +16,8 @@ Created: 2022-04-01T00:00:00Z
 PackageName: hello
 SPDXID: SPDXRef-hello
 PackageOriginator: Organization: Kernkonzept GmbH (info@kernkonzept.com)
-PackageLicenseDeclared: GPL-2.0-only
-PackageLicenseConcluded: GPL-2.0-only
+PackageLicenseDeclared: MIT
+PackageLicenseConcluded: MIT
 FilesAnalyzed: false
 PackageCopyrightText: NOASSERTION
 PackageDownloadLocation: NOASSERTION
