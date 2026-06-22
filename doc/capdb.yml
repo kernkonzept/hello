@@ -1,3 +1,4 @@
 name: hello
 binary-name: hello
+anchor: hello
 desc: "Just say hello over and over"
